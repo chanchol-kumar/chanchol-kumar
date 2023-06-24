@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/chanchol-kumar/chanchol-kumar/blob/main/masterhead.png)
+</br><p align="centre"> <img src="https://github.com/chanchol-kumar/chanchol-kumar/blob/main/masterhead.png" /> </p>
 <h1 align="center">Hi 👋, I'm Chanchol Kumar Modok</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
